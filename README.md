@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi All 
+
+I'm currently working on some research projects at MIT (and enjoying them).
 
 <!--
 **CalebA03/CalebA03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
